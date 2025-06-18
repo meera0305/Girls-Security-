@@ -8,7 +8,17 @@ This project is aimed to protect and empower women using a combination of techno
 ## 🔐 Features:
 - 🚨 Emergency Alert
 - 📍 Send GPS Location
-- 👋 Exit option
+- Crime prediction based on location
+- Backend built with Flask
+- Android interface
+- Optional IoT button
+-  👋 Exit option
+  
+## 🧠 Technologies Used
+- Android (Java)
+- Python (Flask, ML)
+- MySQL
+- Arduino (optional)
 
 > This is a conceptual demo project for educational purposes.
 
