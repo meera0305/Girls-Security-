@@ -1,9 +1,11 @@
 
-# Girls' Security System – by Meera Chavan
+#👧 Girls' Security System – by Meera Chavan
 
-A simple Java-based console project designed for girls' safety.
+"A simple Java-based console project designed for girls' safety.
+This project is aimed to protect and empower women using a combination of technology — Android app, voice command, machine learning crime prediction, and optional IoT integration".
 
-## Features:
+
+## 🔐 Features:
 - 🚨 Emergency Alert
 - 📍 Send GPS Location
 - 👋 Exit option
