@@ -1,5 +1,5 @@
 CREATE DATABASE IF NOT EXISTS raksha_security;
-USE raksha_security;
+use_security;
 
 CREATE TABLE users (
   id INT AUTO_INCREMENT PRIMARY KEY,
