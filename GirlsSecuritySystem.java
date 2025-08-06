@@ -1,6 +1,6 @@
 
 import java.util.Scanner;
-
+ 
 public class GirlsSecuritySystem {
     static Scanner scanner = new Scanner(System.in);
 
