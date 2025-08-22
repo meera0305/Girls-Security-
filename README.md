@@ -5,7 +5,7 @@
 This project is aimed to protect and empower women using a combination of technology — Android app, voice command, machine learning crime prediction, and optional IoT integration".
 
 
-## 🔐 Features:
+## 🔐 Features: 
 - 🚨 Emergency Alert
 - 📍 Send GPS Location
 - Crime prediction based on location
