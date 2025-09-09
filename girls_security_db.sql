@@ -3,7 +3,7 @@
 CREATE DATABASE IF NOT EXISTS girls_security_db;
 USE girls_security_db;
 
--- Step 2: Create Users Table
+-- Step 2: Create Users Table  
 CREATE TABLE IF NOT EXISTS users (
     id INT AUTO_INCREMENT PRIMARY KEY,
     name VARCHAR(100),
