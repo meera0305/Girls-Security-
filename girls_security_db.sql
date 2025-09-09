@@ -11,7 +11,7 @@ CREATE TABLE IF NOT EXISTS users (
     phone VARCHAR(15),
     password VARCHAR(255),
     created_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP
-);
+);  
 
 -- Step 3: Create Emergency Alerts Table
 CREATE TABLE IF NOT EXISTS emergency_alerts (
