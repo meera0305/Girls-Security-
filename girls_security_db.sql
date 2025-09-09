@@ -13,7 +13,7 @@ CREATE TABLE IF NOT EXISTS users (
     created_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP
 );  
 
--- Step 3: Create Emergency Alerts Table
+-- Step 3: Create Emergency Alerts Table  
 CREATE TABLE IF NOT EXISTS emergency_alerts (
     id INT AUTO_INCREMENT PRIMARY KEY,
     user_id INT,
