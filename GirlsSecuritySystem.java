@@ -6,7 +6,7 @@ public class GirlsSecuritySystem {
 
     public static void main(String[] args) {
         int choice;
-        System.out.println("👩‍💻 Girls' Security System - by Meera Chavan");
+        System.out.println("👩‍💻 Girls' Security System - by Meera Chavan");  
 
         do {
             System.out.println("\n------ MENU ------");
