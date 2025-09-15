@@ -7,7 +7,7 @@ This project is aimed to protect and empower women using a combination of techno
 
 ## 🔐 Features: 
 - 🚨 Emergency Alert
-- 📍 Send GPS Location
+- 📍 Send GPS Location   
 - Crime prediction based on location
 - Backend built with Flask
 - Android interface
